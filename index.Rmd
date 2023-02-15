@@ -312,17 +312,21 @@ Source: [Kasmi, F., Laperche, B., Burmeister, A., Merlin-Brogniart, C., 2017. Ec
 
 ---
 
-class: inverse middle
+class: inverse 
 
 # Exercise 1:  à votre tour de jouer sur les Résumés!
 
 Zotero + Trois Résumés
 
 
+
 ```{r echo=FALSE}
 countdown(minutes = 45, font_size = "3em", color_background="#AED6F1", left='0px')
 ```
 
+.bg-white[
+Telechargez le TD: https://github.com/fabbiocrux/Eduter/raw/master/TD/TD2-Eduter.docx
+]
 
 ---
 
@@ -425,7 +429,7 @@ countdown(minutes = 15, font_size = "3em", color_background="#AED6F1", left='0px
 
 class: inverse middle
 
-# Exercise 2:  Lec d'un article de vos 3 et tableau 2!
+# Exercise 2:  Lecture d'un article de vos 3 et tableau 2!
 
 Zotero + Trois Résumés
 
