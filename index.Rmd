@@ -29,6 +29,7 @@ knitr::opts_chunk$set(
   hiline = TRUE
 )
 
+library(countdown)
 
 xaringanExtra::use_xaringan_extra(c("tile_view", "animate_css", "tachyons", "share_again"))
 
@@ -60,18 +61,19 @@ knitr::include_graphics("figures/data-to-impact.jpeg")
 
 ---
 
-class: inverse middle
-
-# Comment lire un article scientifique?
-
----
-
-
 ## Le processus de Recherche scientifique
 
 ```{r, out.width='80%', fig.align='center'}
 knitr::include_graphics("figures/Research-conceptualization-00.jpg")
 ```
+
+
+---
+
+class: inverse middle
+
+# Comment lire un article scientifique?
+
 
 ---
 
@@ -248,7 +250,7 @@ background-size: 38%
 
 
 .footnote[
-Source: [Kasmi, F., Laperche, B., Burmeister, A., Merlin-Brogniart, C., 2017. Ecologie industrielle, milieu innovateur et gouvernance territoriale, revue canadienne des sciences régionales 40 (2), 103-113. The Canadian journal of regional science = La revue canadienne des sciences régionales](https://www.researchgate.net/profile/Blandine-Laperche/publication/322887299_Ecologie_industrielle_milieu_innovateur_et_gouvernance_territoriale_revue_canadienne_des_sciences_regionales_40_2_103-113/links/5a740ca2aca2720bc0dc06ca/Ecologie-industrielle-milieu-innovateur-et-gouvernance-territoriale-revue-canadienne-des-sciences-regionales-40-2-103-113.pdf).
+Source: [Kasmi, F., Laperche, B., Burmeister, A., Merlin-Brogniart, C., 2017. Ecologie industrielle, milieu innovateur et gouvernance territoriale, revue canadienne des sciences régionales 40 (2), 103-113. The Canadian journal of regional science = La revue canadienne des sciences régionales](https://idjs.ca/images/rcsr/archives/V40N2-KASMI-LAPERCHE.pdf).
 
 ]
 
@@ -283,7 +285,7 @@ Implications pour l'avenir?
 
 
 .footnote[
-Source: [Kasmi, F., Laperche, B., Burmeister, A., Merlin-Brogniart, C., 2017. Ecologie industrielle, milieu innovateur et gouvernance territoriale, revue canadienne des sciences régionales 40 (2), 103-113. The Canadian journal of regional science = La revue canadienne des sciences régionales](https://www.researchgate.net/profile/Blandine-Laperche/publication/322887299_Ecologie_industrielle_milieu_innovateur_et_gouvernance_territoriale_revue_canadienne_des_sciences_regionales_40_2_103-113/links/5a740ca2aca2720bc0dc06ca/Ecologie-industrielle-milieu-innovateur-et-gouvernance-territoriale-revue-canadienne-des-sciences-regionales-40-2-103-113.pdf).
+Source: [Kasmi, F., Laperche, B., Burmeister, A., Merlin-Brogniart, C., 2017. Ecologie industrielle, milieu innovateur et gouvernance territoriale, revue canadienne des sciences régionales 40 (2), 103-113. The Canadian journal of regional science = La revue canadienne des sciences régionales](https://idjs.ca/images/rcsr/archives/V40N2-KASMI-LAPERCHE.pdf).
 
 ]
 
@@ -312,18 +314,173 @@ Source: [Kasmi, F., Laperche, B., Burmeister, A., Merlin-Brogniart, C., 2017. Ec
 
 class: inverse middle
 
-# A votre tour de jouer!
+# Exercise 1:  à votre tour de jouer sur les Résumés!
 
 Zotero + Trois Résumés
 
+
+```{r echo=FALSE}
+countdown(minutes = 45, font_size = "3em", color_background="#AED6F1", left='0px')
+```
+
+
 ---
 
-# Zotero
+# Gestion de References Bibliographiques
+## Mendeley, Zotero
+
+- Vous permet d'organiser, de collaborer, de découvrir et de citer tout en écrivant. 
+
+.pull-left[
+
+Tutoriel sur Zotero:
+
+[ENT > Biblioteque UL](https://bu.univ-lorraine.fr/aide-a-la-recherche-documentaire)
+
+]
+
+.pull-right[
+```{r, out.width='100%'}
+knitr::include_graphics("figures/References-01.png")
+```
+
+]
+
+
+---
+
+
+class: inverse middle
+
+# Méthode AIC - Abstract / Introduction / Conclusion
+
+
+---
+
+## Méthode AIC - Abstract / Introduction / Conclusion
+
+<br>
+☑ Screening -> Titre, Journaux, Mots Clés and Résumé
+
+.bg-yellow[Synthese detaillé  use **AIC**]
+<br>️
+<br>
+
+### Abstract → Résumé du document
+
+### Introduction → Contexte du problème et de la recherche, lacunes, résumé de ce qui est fait.
+
+### Conclusions → Résumé des résultats et importance des résultats compte tenu du contexte.
+
+
+---
+
+
+class: top, left
+background-image: url("figures/niang2022.png")
+background-position: 100% 5%
+background-size: 65%
+
+## Exemple 1
+
+
+Lire
+
+1. Introduction
+2. Conclusion
+
+
+.footnote[
+Source: Niang, A., Bourdin, S., Torre, A., 2022. Vers une territorialisation des dynamiques de l’économie circulaire ? Analyse du cas français, 2008-2015. Revue d’économie industrielle 177, 67–101. https://doi.org/10.4000/rei.11225
+]
+
+
+
+
+```{r echo=FALSE}
+countdown(minutes = 15, font_size = "3em", color_background="#AED6F1", left='0px')
+```
+
+
+---
+
+
+## Reading technique
+
+<br>
+
+### [1min] .bg-grey[Screening] → Title, Journal, keywords
+
+### [5min] .bg-yellow[Profiling] → .bg-grey[Screening] + Abstract
+
+### [20min] .bg-orange.white[Focusing] → .bg-yellow[Profiling] + Introduction + Conclusions
+
+### [1hr] .bg-green[In deep] → .bg-orange.white[Focusing] + All other sections
+
+### [2-3 hr] For research → .bg-green[In deep] + Reading Grid + References
 
 
 
 ---
 
+class: inverse middle
+
+# Exercise 2:  Lec d'un article de vos 3 et tableau 2!
+
+Zotero + Trois Résumés
+
+
+```{r echo=FALSE}
+countdown(minutes = 45, font_size = "3em", color_background="#AED6F1", left='0px')
+```
+
+
+---
+class: inverse middle
+
+# Structurer un Doc Scientifique
+
+---
+
+class: top, left
+background-image: url("figures/montagnes2022-1.jpg")
+background-position: 50% 70%
+background-size: 80%
+
+## Structurer un Doc Scientifique
+
+.footnote[Source: 1. Montagnes, D. J. S., Montagnes, E. I. & Yang, Z. Finding your scientific story by writing backwards. Mar Life Sci Technol 4, 1–9 (2022).]
+
+---
+
+
+class: top, left
+background-image: url("figures/montagnes2022.jpg")
+background-position: 50% 70%
+background-size: 80%
+
+## Structurer un Doc Scientifique
+
+
+
+.footnote[Source: 1. Montagnes, D. J. S., Montagnes, E. I. & Yang, Z. Finding your scientific story by writing backwards. Mar Life Sci Technol 4, 1–9 (2022).]
+
+
+---
+
+class: top, left
+background-image: url("figures/Structuration-abstract.png")
+background-position: 100% 50%
+background-size: 30%
+
+
+## Structurer un Doc Scientifique
+
+
+.footnote[Source: 1. Montagnes, D. J. S., Montagnes, E. I. & Yang, Z. Finding your scientific story by writing backwards. Mar Life Sci Technol 4, 1–9 (2022).]
+
+
+---
 class: top, left
 background-image: url("figures/Structuration-introduction.png")
 background-position: 100% 50%
@@ -331,8 +488,8 @@ background-size: 30%
 
 
 
-# Structurer un Doc Scientifique
-## Introduction
+## Structurer un Doc Scientifique
+### Introduction
 
 
 - Il doit établir l’importance du sujet de recherche 
@@ -354,41 +511,70 @@ background-position: 100% 50%
 background-size: 30%
 
 
+## Structurer un Doc Scientifique
+### Methodologie
 
-## Methodologie
-
-
-- Il faur donner 
-
-- établir un lien avec la littérature existante 
-
-- établir clairement le “Gap to be filled”
-
-- Expliquer comment on a traité le sujet 
-
-- “Annoncer la couleur” des résultats
-- Enfin : Décrire la structure de l’article 
-
----
 
 .pull-left-2[
 
-```{r, out.width='90%', fig.align='left'}
+```{r, out.width='80%', fig.align='left'}
 knitr::include_graphics("figures/Structuration-methodology-1.png")
+```
+]
+
+---
+
+
+class: top, left
+background-image: url("figures/Structuration-results.png")
+background-position: 100% 50%
+background-size: 30%
+
+
+## Structurer un Doc Scientifique
+### Results
+
+.pull-left-2[
+
+```{r, out.width='80%', fig.align='left'}
+knitr::include_graphics("figures/Structuration-results-1.png")
 ```
 ]
 
 
 ---
-## Évaluer les résumés
+
+
+class: top, left
+background-image: url("figures/Structuration-discussion.png")
+background-position: 100% 50%
+background-size: 30%
+
+
+## Structurer un Doc Scientifique
+### Discussion & Conclusions
+
+.pull-left-2[
+
+```{r, out.width='90%', fig.align='left'}
+knitr::include_graphics("figures/Structuration-discussion-1.png")
+```
+]
+
 
 ---
 
-# Des outils
+class: inverse middle
 
-[Manuel d'utilisation de Zotero ](http://bu.univ-lorraine.fr/sites/default/files/users/user779/Tutoriel%20Zotero%202021-2022.pdf)
+# Exercise 3:  Ecriture d'un  Résumé!
+
+
+```{r echo=FALSE}
+countdown(minutes = 45, font_size = "3em", color_background="#AED6F1", left='0px')
+```
 
 ---
+
 
 
 
