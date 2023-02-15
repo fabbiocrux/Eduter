@@ -1,0 +1,1342 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Tacnet, JM
+   Forestier, E
+   Mermet, E
+   Curt, C
+   Berger, F
+AF Tacnet, Jean-Marc
+   Forestier, Elodie
+   Mermet, Eric
+   Curt, Corinne
+   Berger, Frederic
+TI Territorial resilience: from concept to mountain critical
+   infrastructures analysis
+SO HOUILLE BLANCHE-REVUE INTERNATIONALE DE L EAU
+LA French
+DT Article
+DE territorial resilience; transport networks; natural hazards; mountains;
+   indirect vulnerability
+AB In mountain areas, roads and transport infrastructures are essential from health, economic, social, and environmental and safety points of views but are also highly exposed to natural phenomena. For those critical infrastructures, remote effects due to linking function losses can be very harmful for territories. However, most approaches focus rather on local effects of phenomena and direct vulnerability of people, objects, and infrastructures. At a territorial scale, other techniques allow to consider indirect vulnerabilities and quantify territorial resilience. This paper first describes and then discusses the concept of resilience and then proposes a methodology applied to territorial and transport networks resilience analysis.
+   Network structural properties analysis combines spatial G.I.S analysis, graph theory and produces indicators to (e.g.) evaluate importance, criticality of road sections and also territories accessibility in the context of natural risks. Attractiveness factors on nodes and constraints on edges (physical, exposure to natural phenomena) are valuated using both multi-criteria decision-making methods and rule-based approaches. Then, structural indicators are calculated. The centrality indicator (e.g.) measures the level up to which a road is used to reach any point (somewhere an importance factor). Evolution of the average (mean) topological distance indicator shows how easy or difficult it is to reach a point on the network considering all constraints, including those related to natural phenomena, on networks. GeoGraphLab (GGL) is new improved versatile open-source software which implements this methodology for the analysis of any infrastructure network (transport, energy, and telecommunications).Using those techniques, networks are analyzed under several exposure and failure scenarios in order to assess vulnerability and territorial resilience using relative evolution of indicators.
+C1 [Tacnet, Jean-Marc; Forestier, Elodie] Univ Grenoble Alpes, Irstea, ETNA, F-38000 Grenoble, France.
+   [Berger, Frederic] Univ Grenoble Alpes, Irstea, Ctr Grenoble, UR TEGR, St Martin Dheres, France.
+   [Curt, Corinne] Irstea, UR RECOVER, Ctr Aix En Provence, Aix En Provence, France.
+   [Mermet, Eric] Graph It, 56 Ave Gen Michel Bizot, F-75012 Paris, France.
+C3 Communaute Universite Grenoble Alpes; UDICE-French Research
+   Universities; Universite Grenoble Alpes (UGA); INRAE; Communaute
+   Universite Grenoble Alpes; UDICE-French Research Universities;
+   Universite Grenoble Alpes (UGA); INRAE; INRAE; UDICE-French Research
+   Universities; Aix-Marseille Universite
+RP Tacnet, JM (corresponding author), Univ Grenoble Alpes, Irstea, ETNA, F-38000 Grenoble, France.
+EM jean-marc.tacnet@irstea.fr; eric.mermet@g-it.fr
+RI CURT, Corinne/HJI-2205-2023
+OI TACNET, Jean-Marc/0000-0003-4731-5440
+NR 21
+TC 0
+Z9 0
+U1 2
+U2 22
+PU EDP SCIENCES S A
+PI LES ULIS CEDEX A
+PA 17, AVE DU HOGGAR, PA COURTABOEUF, BP 112, F-91944 LES ULIS CEDEX A,
+   FRANCE
+SN 0018-6368
+EI 1958-5551
+J9 HOUILLE BLANCHE
+JI Houille Blanche-Rev. Int.
+PD OCT-DEC
+PY 2018
+IS 5-6
+BP 20
+EP 28
+DI 10.1051/lhb/2018047
+PG 9
+WC Water Resources
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Water Resources
+GA HI8VU
+UT WOS:000456734800003
+DA 2023-02-14
+ER
+
+PT J
+AU Debrieu-Levrat, C
+   Paraboschi, V
+   Masfrand, S
+   Brun, A
+AF Debrieu-Levrat, Celine
+   Paraboschi, Valerie
+   Masfrand, Severine
+   Brun, Alexandre
+TI Territorial resilience: challenges, actors and strategies in the
+   Dordogne girondine
+SO HOUILLE BLANCHE-REVUE INTERNATIONALE DE L EAU
+LA French
+DT Article
+DE resilience; flood; Gironde; experimentation; urban area; natural area;
+   farmland; Dordogne; urban planning
+AB The paper presents the main results of a study on territorial resilience in the Dordogne girondine. This sector is multifarious because it is densely urbanized and subject to the risks of flooding by stream overflow and by marine submersion. After a theoretical detour on the notion of resilience applied to "territories", the communication presents in turn the stakes, the actors and finally the new strategies that deserve to be tested at the end of the study. The Departemental Council of Gironde wishes to develop, within the framework of territorial solidarity, localized actions in order to promote the competitiveness and attractiveness of territories undergoing major changes in the Dordogne girondine. In this perspective, the Amenag'eau team - which combines different skills within the Departemental Council - has given priority to a methodological study that puts a key place to the history of the territories. It is based on a triptych ranging from the exploitation of archives to the collection of testimonies and passing through the diachronic analysis of the evolution of land use. The goal of Amenag'eau is to draw on the corpus of the individual and collective strategies implemented in the 19th and early 20th centuries both in terms of localization and the organization of men and activities at the local level, in terms of architectural processes, materials or technical networks at the local level, in order to influence constructively communities that are often poor and yet in charge of drawing up urban planning documents and territorial planning.
+C1 [Debrieu-Levrat, Celine; Paraboschi, Valerie; Masfrand, Severine] Conseil Dept Gironde, CS 71223, 1 Esplanade Charles de Gaulle, Bordeaux, France.
+   [Brun, Alexandre] Univ Paul Valery Montpellier 3, Route Mende, F-34099 Montpellier, France.
+C3 Universite Paul-Valery
+RP Debrieu-Levrat, C (corresponding author), Conseil Dept Gironde, CS 71223, 1 Esplanade Charles de Gaulle, Bordeaux, France.
+EM c.debrieu-levrat@gironde.fr; v.paraboschi@gironde.fr;
+   s.masfrand@gironde.fr; alexandre.brun@univ-montp3.fr
+NR 13
+TC 0
+Z9 0
+U1 0
+U2 5
+PU EDP SCIENCES S A
+PI LES ULIS CEDEX A
+PA 17, AVE DU HOGGAR, PA COURTABOEUF, BP 112, F-91944 LES ULIS CEDEX A,
+   FRANCE
+SN 0018-6368
+EI 1958-5551
+J9 HOUILLE BLANCHE
+JI Houille Blanche-Rev. Int.
+PD APR
+PY 2018
+IS 2
+BP 22
+EP 28
+DI 10.1051/lhb/2018017
+PG 7
+WC Water Resources
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Water Resources
+GA GI6QQ
+UT WOS:000434516400003
+DA 2023-02-14
+ER
+
+PT J
+AU Talandier, M
+   Calixte, Y
+AF Talandier, Magali
+   Calixte, Yatina
+TI Economic resilience of French territories What lessons can be learned
+   from the 2008 crisis?
+SO REVUE D ECONOMIE REGIONALE ET URBAINE
+LA French
+DT Article
+DE resilience; territorial development; economic crisis;
+   intermunicipalities; metropolis
+ID REGIONAL RESILIENCE; EUROPE; CITIES
+AB The economic crisis of 2008 was one of the most severe that Europe has experienced so far. The impact of the crisis has been extremely variable from one region to another at the European level, raising the issues of solidarity and territorial cohesion. Thus, while a new crisis is coming due to the coronavirus pandemic, not all territories have yet recovered their 2007 employment levels. In this context, the article examines the economic resilience of French territories, at the level of the intermunicipalities. Based on ten years of detailed observation of variations in private employment, we compare not only employment dynamics, but also the intensity of losses and the capacity to rebound, while we also introduce the temporality of these effects through the notion of the resilience cycle. The results show the diversity of economic trajectories and territorial disparities in terms of resilience. Disparities, in terms of resilience, are more marked between regions than between metropolises and the rest of the territory in the short term. Over the long term, the "metropolis-hinterland" divide within the regions hardest hit by the crisis is increasing. In most of these areas, employment certainly began to rise again after 2009, but more slowly than elsewhere, not enough to make up for the losses. Here, the COVID-19 crisis may not be stronger than elsewhere, but it will hit areas (and households) that were already highly precarious at the start of the pandemic.
+C1 [Talandier, Magali; Calixte, Yatina] Univ Grenoble Alpes, UMR PACTE, Grenoble, France.
+C3 Communaute Universite Grenoble Alpes; UDICE-French Research
+   Universities; Universite Grenoble Alpes (UGA)
+RP Talandier, M (corresponding author), Univ Grenoble Alpes, UMR PACTE, Grenoble, France.
+EM magali.talandier@univ-grenoble-alpes.fr; yatina.calixte@aurg.asso.fr
+NR 48
+TC 0
+Z9 0
+U1 3
+U2 5
+PU ARMAND COLIN
+PI PARIS CEDEX 05
+PA 5 RUE LAROMIGUIERE, PARIS CEDEX 05, 75240, FRANCE
+SN 0180-7307
+EI 2107-0865
+J9 REV ECON REG URBAINE
+JI Rev. Econ. Reg. Urbaine
+PD JUN
+PY 2021
+IS 3
+BP 361
+EP 396
+PG 36
+WC Economics
+WE Emerging Sources Citation Index (ESCI)
+SC Business & Economics
+GA SU4XO
+UT WOS:000663142600001
+DA 2023-02-14
+ER
+
+PT J
+AU Reghezza-Zitt, M
+   Jon, I
+AF Reghezza-Zitt, Magali
+   Jon, Ihnji
+TI Has 'resilience' changed anything? A reflection on the introduction of
+   resilience to risk governance in Parisian region
+SO ESPACE POLITIQUE
+LA French
+DT Article
+DE resilience; risk governance; territorial governance; disaster planning;
+   disaster management; Paris; Resilient Cities; 100 Resilient Cities (100
+   RC)
+AB This article documents the introduction of 'resilience' to the French model of risk governance, and examines how this concept has been operationalized in risk and security governance as well as territorial governance in Parisian region. The article is based on qualitative approach, relying on formal interviews, participant and non-participant observation, regular informal exchanges with certain stakeholders and the analysis of gray literature documents (e.g. government reports, policy statements, and other technical reports). It first discusses the structural characteristics of risk governance in Ile-de-France, underlining its territorial fragmentation and intricate matrices of actors in different levels of government that further aggravate the complexity of the already fragmented governance model. We then explore how the concept of resilience becomes operationalized in such context, based on our key informant interviews with practitioners in the field. Our investigation has revealed that, while the introduction of resilience does not necessarily imply significant changes in the practices of disaster management, the concept has served a role in reorganization of risk and security governance - via accompanying the restructuring of territorial governance which has been under way for several years. Furthermore, it has been observed that the concept is also of service to pushing through some of the existing political agendas and policy initiatives; this implies that the operationalization of 'resilience' largely relies on the performativity of the concept that only gets developed by the actual use of practitioners.
+C1 [Reghezza-Zitt, Magali] Ecole Normale Super PSL, Lab Geog Phys Meudon LGP, UMR 8591, Paris, France.
+   [Jon, Ihnji] Univ Melbourne, Melbourne Sch Design, Int Int Urban Polit, Melbourne, Vic, Australia.
+C3 Centre National de la Recherche Scientifique (CNRS); CNRS - Institute of
+   Ecology & Environment (INEE); UDICE-French Research Universities;
+   Universite PSL; Ecole Normale Superieure (ENS); Universite
+   Paris-Est-Creteil-Val-de-Marne (UPEC); University of Melbourne
+RP Reghezza-Zitt, M (corresponding author), Ecole Normale Super PSL, Lab Geog Phys Meudon LGP, UMR 8591, Paris, France.
+EM magali.reghezza@ens.fr; ihnji.jon@unimelb.edu.au
+NR 54
+TC 0
+Z9 0
+U1 0
+U2 1
+PU UNIV REIMS CHAMPAGNE-ARDENNES
+PI PARIS
+PA C/O MME EMMANUELLE CHAVENEAU, 191 RUE ST JACQUES, PARIS, 75005, FRANCE
+SN 1958-5500
+J9 ESPAC POLIT
+JI Espac. Polit.
+PY 2018
+IS 36
+AR 5463
+DI 10.4000/espacepolitique.5463
+PG 24
+WC Geography
+WE Emerging Sources Citation Index (ESCI)
+SC Geography
+GA JE3EY
+UT WOS:000490578000001
+OA Green Submitted, gold
+DA 2023-02-14
+ER
+
+PT J
+AU Bouisset, C
+   Clarimont, S
+   Rebotier, J
+AF Bouisset, Christine
+   Clarimont, Sylvie
+   Rebotier, Julien
+TI A Place-based Resilience to Improve Disaster Prevention
+SO HOUILLE BLANCHE-REVUE INTERNATIONALE DE L EAU
+LA French
+DT Article
+DE risk; resilience; changes; place-based approach; Lacq
+AB This paper aims at identifying how the idea of resilience could significantly contribute to disasters reduction. We argue that two elements are crucial: questions of governance and diversity of actors. A place-based and constructivist approach of Lacq area was carried out. The development of Lacq was based on an important natural gas field discovered in the 1950's and a subsequent chemical industrial complex. From the 1980's Lacq had to carry out an industrial reconversion to tackle a severe economic crisis and the depletion of the gas field (the commercial exploitation ended in 2013). The area is exposed to different risks (both natural and industrial) and to changing territorial dynamics, uncertain future in the globalization context and political changes (decentralization with an increasing involvement of local authorities in economic development). The different kind of risks and changes the territory has to deal with may offer a good opportunity to study the idea of resilience. But our work shows that local stakeholders (risk practitioners, state representatives, mayors, companies representatives, inhabitants) never use the term "resilience". A place-based approach allows to contextualize resilience drivers. It points out local framework, power relations among actors and interactions between local and more global levels (multinational firm strategies, national energy transition framework.) which are essential drivers of future local pathways. We believe that resilience is plural and represents the "least bad" choices for the largest number of people whom voice is taken into account, because it is unrealistic to regard territorial resilience as a whole and to consider that all actors have common interests and the same power in decision-making process.
+C1 [Bouisset, Christine; Clarimont, Sylvie] Domaine Univ, Inst Claude Laugenie, UPPA PASSAGES UMR 5319, F-64000 Pau, France.
+   [Rebotier, Julien] UT2J, MDR, CNRS LISST UMR 5193, 5 Allees Antonio Machado, F-31058 Toulouse 9, France.
+C3 Centre National de la Recherche Scientifique (CNRS); CNRS - Institute
+   for Humanities & Social Sciences (INSHS); Communaute Universite Grenoble
+   Alpes; UDICE-French Research Universities; Universite Grenoble Alpes
+   (UGA); Universite de Pau et des Pays de l'Adour; Universite de Toulouse;
+   Universite de Toulouse - Jean Jaures
+RP Bouisset, C (corresponding author), Domaine Univ, Inst Claude Laugenie, UPPA PASSAGES UMR 5319, F-64000 Pau, France.
+EM christine.bouisset@univ-pau.fr; sylvie.clarimont@univ-pau.fr;
+   julien.rebotier@cnrs.fr
+OI Rebotier, Julien/0000-0002-4382-3862
+NR 23
+TC 0
+Z9 0
+U1 0
+U2 10
+PU EDP SCIENCES S A
+PI LES ULIS CEDEX A
+PA 17, AVE DU HOGGAR, PA COURTABOEUF, BP 112, F-91944 LES ULIS CEDEX A,
+   FRANCE
+SN 0018-6368
+EI 1958-5551
+J9 HOUILLE BLANCHE
+JI Houille Blanche-Rev. Int.
+PD APR
+PY 2018
+IS 2
+BP 29
+EP 37
+DI 10.1051/lhb/2018018
+PG 9
+WC Water Resources
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Water Resources
+GA GI6QQ
+UT WOS:000434516400004
+DA 2023-02-14
+ER
+
+PT J
+AU Benitez, F
+AF Benitez, Fanny
+TI The Mount Pelee disaster on 8 May 1902 in Martinique: is Saint-Pierre a
+   resilient city or an archetypal example of bifurcation?
+SO PHYSIO-GEO
+LA French
+DT Article
+DE resilience; territorial trajectory; spatial reproduction; Saint-Pierre;
+   Mount Pelee; Martinique
+ID URBAN RESILIENCE; ERUPTIONS; SYSTEMS
+AB The purpose of this article is to analyse the effects of a major disaster on the territorial trajectory of a city, by combining different spatial and temporal scales. Feedback shows that, in the face of a catastrophic event, cities adopt very different recovery trajectories, which are now described through the concept of resilience. From a geohistorical perspective, the notion of resilience alone cannot explain long-term territorial trajectories. Using the example of the city of Saint-Pierre in Martinique, devastated by the eruptions of Mount Pelee in 1902, we were able to demonstrate that the city's trajectory did not correspond to a trajectory of resilience, contrary to what the actors claim. To do this, we combined archival work with a population survey in 2016. The geohistorical approach makes it possible to go beyond the discourse of the actors of the territory, which presents Saint-Pierre as a resilient city. Depending on the time step and spatial scale considered, the territorial trajectory of Saint-Pierre may take the form of a spatial reproduction with a survival of the name and site, a bearing with degradation compared to the previous situation or a fork. The geohistorical analysis of the trajectory of Saint-Pierre finally shows that there is no resilience in itself for urban territories.
+C1 [Benitez, Fanny] 33 Rue Tolbiac, F-75013 Paris, France.
+RP Benitez, F (corresponding author), 33 Rue Tolbiac, F-75013 Paris, France.
+EM fanny.tez@gmail.com
+NR 71
+TC 0
+Z9 0
+U1 0
+U2 3
+PU REVUES ORG
+PI PARIS
+PA CENTRE SOCIOLOGIE ORGANISATIONS CSO SCIENCES PO-CNRS, 27 RUE
+   SAINT-GUILLAUME, PARIS, 75007, FRANCE
+SN 1958-573X
+J9 PHYSIO-GEO
+JI Physio-Geo
+PY 2019
+VL 14
+SI SI
+BP 227
+EP 252
+PG 26
+WC Geosciences, Multidisciplinary
+WE Emerging Sources Citation Index (ESCI)
+SC Geology
+GA OV2OW
+UT WOS:000592057100010
+DA 2023-02-14
+ER
+
+PT J
+AU Jeannerat, H
+AF Jeannerat, Hugues
+TI From territorial dynamics of innovation to territorial dynamics of
+   evaluation
+SO REVUE D ECONOMIE REGIONALE ET URBAINE
+LA French
+DT Article
+DE watchmaking; innovation; innovative milieu; territory; valuation
+ID KNOWLEDGE; INSTITUTIONS; CLUSTERS; MARKETS; SYSTEMS; REGION; FORMS
+AB In the nineties, the watchmaking region of the Swiss Jura Arc became, with other emblematic regions such as the Silicon Valley and the Third Italy, an illustrative model of regional innovation and industrial resilience in a globalized post-Fordist economy. Is this region still exemplary to understand and to conceptualize contemporary issues of territorial development? What can be learnt from the Swiss watchmaking case to reconsider and renew current theories in regional studies and economic geography? This paper first highlights the conceptual dilemma posed by the evolution of the Swiss watchmaking industry in the last fifteen years with regard to the established territorial innovation models. It is argued that these models can explain how territorial dynamics are at the origin of economic change but not how the value of this change is territorially constructed. Based on different socio-economic theories of markets and on empirical illustrations of the Swiss watchmaking case, a relational, institutional and transactional approach to value is proposed. Building upon these socio-economic theories, the concept of "valuation" is introduced to interpret contemporary territorial dynamics of innovation. These dynamics are not only the capacity of a local innovation system to produce differently from competitors. They also imply the capacity of this system to embed in multi-local networks of co-production and consumption. Shifting from an "innovation" to a "valuation" paradigm, the paper finally concludes with some crucial issues for the Swiss Watchmaking industry today. It also opens promising research avenues to renew regional studies and economic geography in regard to the rise of a digitalized economy and to a transition towards new sustainability quality conventions in markets and society.
+C1 [Jeannerat, Hugues] Univ Neuchatel, Neuchatel, Switzerland.
+C3 University of Neuchatel
+RP Jeannerat, H (corresponding author), Univ Neuchatel, Neuchatel, Switzerland.
+EM hugues.jeannerat@unine.ch
+NR 93
+TC 0
+Z9 0
+U1 1
+U2 1
+PU ARMAND COLIN
+PI PARIS CEDEX 05
+PA 5 RUE LAROMIGUIERE, PARIS CEDEX 05, 75240, FRANCE
+SN 0180-7307
+EI 2107-0865
+J9 REV ECON REG URBAINE
+JI Rev. Econ. Reg. Urbaine
+PD FEB
+PY 2021
+IS 1
+SI SI
+BP 29
+EP 50
+PG 22
+WC Economics
+WE Emerging Sources Citation Index (ESCI)
+SC Business & Economics
+GA QZ0DK
+UT WOS:000630405300004
+DA 2023-02-14
+ER
+
+PT J
+AU Masselot, C
+AF Masselot, Cyril
+TI Resilience of a Working-Class Neighborhood: Challenges for a Territorial
+   Community Management
+SO COMMUNIQUER
+LA French
+DT Article
+DE socio-ecological transition; social network; resilience; discourse
+   analysis; change management
+AB In this article, we question the design of the animation of a Facebook page on the theme of sustainable consumption in a popular area. We observe the influence of community management as recommended today on presupposed process of appropriation by the inhabitants, and are looking to understand the communications issues of policy dissemination of community management to these people. The various co-building sessions of community management of this experimental communicative device were recorded and transcribed. The speech analysis methods have been enhanced by the use of software Iramuteq. We then get specific speech patterns that include semantic isotopies: they reveal the need for an ingrown local roots, to resort to theories of change management, to incorporate animation in an innovative complex system, and not to forget the public who are not yet aware of the eco-behaviour. These assessments allow to imagine how to take into account the issues of community management in this specific context.
+C1 [Masselot, Cyril] Univ Bourgogne Franche Comte, Sci Informat & Commun, Lab CIMEOS, Dijon, France.
+C3 Universite de Bourgogne
+RP Masselot, C (corresponding author), Univ Bourgogne Franche Comte, Sci Informat & Commun, Lab CIMEOS, Dijon, France.
+RI Masselot, Cyril/C-8334-2012
+OI Masselot, Cyril/0000-0003-1845-9648
+NR 21
+TC 0
+Z9 0
+U1 0
+U2 3
+PU UNIV QUEBEC MONTREAL-UQAM
+PI MONTREAL
+PA 405 SAINTE-CATHERINE STR E, MONTREAL, QC H2L 2C4, CANADA
+EI 2368-9587
+J9 COMMUNIQUER
+JI Communiquer
+PY 2017
+IS 19
+BP 47
+EP 57
+DI 10.4000/communiquer.2156
+PG 11
+WC Communication
+WE Emerging Sources Citation Index (ESCI)
+SC Communication
+GA VI1YK
+UT WOS:000462283300004
+OA gold
+DA 2023-02-14
+ER
+
+PT J
+AU Barriere, H
+   Savatier, J
+   Bolo, P
+   Hubert, N
+   Athanase, F
+AF Barriere, Helene
+   Savatier, Jeremy
+   Bolo, Philippe
+   Hubert, Namgyel
+   Athanase, Fabienne
+TI Defining local strategy for flood management: an opportunity to develop
+   a resilience process for Toulouse Metropole
+SO HOUILLE BLANCHE-REVUE INTERNATIONALE DE L EAU
+LA French
+DT Article
+DE Flood; Vulnerability; Resilience; Concertation
+AB Toulouse Metropole is an urban territory highly affected by flood prone areas from Garonne River and its tributaries. It has launched a vulnerability diagnosis of the territory and the definition of the Urban Area Strategy for flood management and prevention on 41 municipalities, with the objective to improve territorial resilience. The diagnosis outputs are the identification and localization of many issues on a widespread territory, a multi-themes vulnerability analysis with a specific emphasis on taking into account risk in urbanism and urban planning. Regarding governance, concertation had a key role, with a large association of municipalities, stake holders and partners within innovative concertation workshops enabling a real co-construction of the strategy Thanks to this participatory process, the approach has led to raise risk and responsibility awareness of the different stakeholders, and to a real willingness to adapt the territory to improve its resilience thanks to territorial solidarity and with various actors. This experience enabled a political appropriation on a long term outlook (2035) of a technical, complex and lowly mobilizing issue, above all due to the lack of memory of the latest large flood (1875) and the feeling of being protected behind the center city dykes. A new dynamic is launched thanks to the new viewpoints brought by the Flood Directive principles: awareness of the dramatic consequences of floods, the importance of flood risk for urban planning and the involvement of all the actors and stakeholders in the operational programme of the strategy.
+C1 [Barriere, Helene] Toulouse Metropole, Toulouse, France.
+   [Savatier, Jeremy; Bolo, Philippe] ISL Ingenierie, Paris, France.
+   [Hubert, Namgyel] AgenceTER, Paris, France.
+   [Athanase, Fabienne] Direct Dept Terr Haute Garonne, Toulouse, France.
+RP Barriere, H (corresponding author), Toulouse Metropole, Toulouse, France.
+EM helene.barriere@toulouse-metropole.fr; savatier@isl.fr; bolo@isl.fr;
+   nhubert@agenceter.com; fabienne.athanase@haute-garonne.gouv.fr
+NR 7
+TC 0
+Z9 0
+U1 0
+U2 9
+PU EDP SCIENCES S A
+PI LES ULIS CEDEX A
+PA 17, AVE DU HOGGAR, PA COURTABOEUF, BP 112, F-91944 LES ULIS CEDEX A,
+   FRANCE
+SN 0018-6368
+EI 1958-5551
+J9 HOUILLE BLANCHE
+JI Houille Blanche-Rev. Int.
+PD JUN
+PY 2018
+IS 3
+BP 18
+EP 24
+DI 10.1051/lhb/2018028
+PG 7
+WC Water Resources
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Water Resources
+GA GR1ZH
+UT WOS:000442356000003
+DA 2023-02-14
+ER
+
+PT J
+AU Corodescu-Rosca, E
+   Hamdouch, A
+   Iatu, C
+AF Corodescu-Rosca, Ema
+   Hamdouch, Abdelilah
+   Iatu, Corneliu
+TI The Differentiated Strategic Temporality of Local Actors as a Key Factor
+   of Regional Metropolises Resilience? The Case of Romania
+SO REVUE D ECONOMIE REGIONALE ET URBAINE
+LA French
+DT Article
+DE dynamic territorial resilience; regional metropolises; new development
+   path; Romania; proactive strategies
+ID GROWTH
+AB The present paper tests the hypothesis that dynamic resilience of post-socialist regional metropolises is mainly based on the temporality and on the strategic direction chosen by local actors. Facing the same challenges (globalization and metropolisation), inside of the same socio-political regime (post-socialist, transition country), territories may follow different adaptive paths to the new economy. The study is based on extensive case studies concerning the economic restructuring path of three regional metropolises of Romania - Timsoara, Cluj-Napoca and Iasi. The analysis is structured throughout an adapted version of the framework developed by Hamdouch et al. (2012), which spots the content, the openness and the temporality of adaptation strategies used by different local actors in dealing with globalization and transition to market economy. The results demonstrate that even without a strong cohesion among local actors, the synchronisation of their individual strategies as well as their ability to capitalize on the strengths of their respective regions can foster a time effective and sustainable transition to the globalized economy. At the same time, the case studies revealed the particularly important role played by two categories of actors - local government and university - due to their capacity to build wider strategies contributing to overall local development. On the other hand, where a local entrepreneurial and cooperation culture exists (such in the case of Cluj-Napoca), a rather neutral position of the government in the early phase of transition proved to be an appropriate choice, while a more engaged position was able to foster the internationalisation and the attractiveness of the city during the later phases of transition. We conclude that the continuity of a proactive behaviour of different categories of actors is essential for resilience, as the strategies must be constantly adapted to the new challenges and opportunities revealed across the evolutionary path.
+C1 [Corodescu-Rosca, Ema; Iatu, Corneliu] Univ Alexandru Ioan Cuza Iasi, Iasi, Romania.
+   [Corodescu-Rosca, Ema; Hamdouch, Abdelilah] Univ Tours, Tours, France.
+   [Corodescu-Rosca, Ema; Hamdouch, Abdelilah] UMR CITERES, Tours, France.
+C3 Alexandru Ioan Cuza University; Universite de Tours
+RP Corodescu-Rosca, E (corresponding author), Univ Alexandru Ioan Cuza Iasi, Iasi, Romania.; Corodescu-Rosca, E (corresponding author), Univ Tours, Tours, France.; Corodescu-Rosca, E (corresponding author), UMR CITERES, Tours, France.
+EM ema.corodescu@gmail.com; abdelillah.hamdouch@univ-tours.fr;
+   corneliu.iatu@gmail.com
+RI Ema, Corodescu-Rosca/AGZ-5193-2022
+OI Ema, Corodescu-Rosca/0000-0001-5156-5093
+NR 49
+TC 2
+Z9 2
+U1 1
+U2 1
+PU ARMAND COLIN
+PI PARIS CEDEX 05
+PA 5 RUE LAROMIGUIERE, PARIS CEDEX 05, 75240, FRANCE
+SN 0180-7307
+EI 2107-0865
+J9 REV ECON REG URBAINE
+JI Rev. Econ. Reg. Urbaine
+PD DEC
+PY 2021
+IS 5
+BP 825
+EP 849
+DI 10.3917/reru.215.0825
+PG 26
+WC Economics
+WE Emerging Sources Citation Index (ESCI)
+SC Business & Economics
+GA XW8AH
+UT WOS:000735834500004
+DA 2023-02-14
+ER
+
+PT J
+AU Radoine, H
+   Mrani, R
+AF Radoine, Hassan
+   Mrani, Rim
+TI The Islamic Civitas of three Maghribi Cities: Analytical Approach of
+   Urban Resilience
+SO HESPERIS-TAMUDA
+LA French
+DT Article
+DE Resilience; North Africa; Islamic City; Civitas; Urbanism
+AB This article highlights two seemingly divergent but fundamentally related points of view. The first concerns the "Islamic" city as a rational product of logical progression and stratification of endogenous urban and architectural facts. The second advocates the latter as the sum of exogenous elements. Therefore, this paper demonstrates that these two visions related to the successive horizontal temporal stratification and the sinusoidal intercontinental influences are two facets of the same coin, that of the contribution to the genesis and the evolution of the "Islamic" civitas. However, beyond the "endogenous/exogenous" dichotomy, and in addition to the functional necessities, the argumentation is made around the community characteristics, intrinsic to the "Islamic" city, which have particularly shaped the smart urban and architectural structure of the North-African heritage. In this sense, the spatial syntax of the socio-economic dynamics of these civitates is put at the heart of the subject, in correspondence with intercultural exchanges and their impact on the aesthetic, functional and environmental urban aspects, in contrast with any systemic organization based on orthogonal projections of heterogeneous urban and architectural elements. Hence, our case study focuses as well on the constants and variables that gave rise to the territorial phenomena of "Islamic" cities as an ecosystem centered on socio-cultural patterns of which the individual, the family, the neighborhood and the community are the basic elements that generated durability and resilience evidenced by temporal and functional continuity.
+C1 [Radoine, Hassan; Mrani, Rim] Univ Mohammed VI Polytech Ben Guerir, Ben Guerir, Morocco.
+C3 Mohammed VI Polytechnic University
+RP Radoine, H (corresponding author), Univ Mohammed VI Polytech Ben Guerir, Ben Guerir, Morocco.
+NR 22
+TC 0
+Z9 0
+U1 1
+U2 2
+PU UNIV MOHAMMED V RABAT, FAC LETTRES SCI HUMAINES
+PI RABAT
+PA 3 AVE IBN BATOUTA, BP 1040, RABAT, 10080, MOROCCO
+SN 0018-1005
+J9 HESPERIS-TAMUDA
+JI Hesperis-Tamuda
+PY 2021
+VL 56
+IS 3
+BP 273
+EP 297
+PG 25
+WC Humanities, Multidisciplinary
+WE Emerging Sources Citation Index (ESCI)
+SC Arts & Humanities - Other Topics
+GA YG4EC
+UT WOS:000742443100001
+DA 2023-02-14
+ER
+
+PT J
+AU Tritsch, I
+   Gond, V
+   Oszwald, J
+   Davy, D
+   Grenand, P
+AF Tritsch, Isabelle
+   Gond, Valery
+   Oszwald, Johan
+   Davy, Damien
+   Grenand, Pierre
+TI Territorial dynamics in the wayapi and teko amerindian communities of
+   the middle Oyapock, Camopi, French Guiana
+SO BOIS ET FORETS DES TROPIQUES
+LA French
+DT Article
+DE slash-and-burn cultivation; territorial management; system of natural
+   resource use; protected area; Amerindian populations; French Guiana
+ID CONSERVATION; FORESTS; AMAZON
+AB TERRITORIAL DYNAMICS IN THE WAYAPI AND TEKO AMERINDIAN COMMUNITIES OF THE MIDDLE OYAPOCK, CAMOPI, FRENCH GUIANA
+   Amerindian populations have been experiencing major socio-economic changes for several decades, in a context of rapid demographic growth. This article addresses the ways in which the Amerindian populations of French Guiana have adapted their land use and natural resource management systems to cope with the pressures exerted on their lands and lifestyles. The aim was to investigate the resilience of their systems for land and natural resource use. The concentration of Amerindian habitats around the town of Camopi, which is linked to the availability of health and school infrastructure and to efforts to promote a sedentary lifestyle, is a factor of increasing natural resource scarcity and social alienation. The system is adapting by fragmenting the Amerindian habitat into peripheral villages and extending farmlands along rivers to access to more space. These villages replicate patterns of spatial organisation that are similar to those found in traditional Wayapi and Teko villages, except that habitation is sedentary, as families hope to have their villages equipped with at least drinking water and electrification. Habitat fragmentation is spatially limited by the time taken for daily journeys to school, and therefore by school bus services (dugout), which means that land use is effectively conditioned by services and infrasrtucture. Other living quarters are maintained at a distance from the village, so that the habitat is bi-local: families have a main home where services and infrastructure are available, and a secondary itinerant home further away, which is chosen according to the quality of farmland, the hunting yield of hunting resources, the history of the location and family networks. These distant homes are kept up by spending income from social assistance on transport. It's thus shown that these Amerindian systems for land and natural resource uses are highly adaptable, in that their sustainability is guaranteed by the reconstruction of a circular pattern of mobility in accordance with the intensity of resource use.
+C1 [Tritsch, Isabelle] Univ Antilles Guyane, Cirad, Umr Ecol Forets Guyane, F-97310 Kourou, France.
+   [Gond, Valery] Cirad, Upr Bsef, Biens & Serv Ecosyst Forestiers Trop, F-34398 Montpellier 05, France.
+   [Oszwald, Johan] Univ Rennes 2, Dept Geog Costel, Umr Cnrs Letg, F-35000 Rennes, France.
+   [Davy, Damien] Cnrs, Usr Observ Hommes Milieux Oyapock 3456, Cnrs Guyane, F-97300 Cayenne, France.
+   [Grenand, Pierre] Ird, Observ Hommes Milieux Oyapock, Cnrs Guyane, F-97300 Cayenne, France.
+C3 AgroParisTech; CIRAD; Centre National de la Recherche Scientifique
+   (CNRS); Universite des Antilles; CIRAD; Universite de Rennes; Universite
+   Rennes 2; Centre National de la Recherche Scientifique (CNRS); Centre
+   National de la Recherche Scientifique (CNRS); Institut de Recherche pour
+   le Developpement (IRD)
+RP Tritsch, I (corresponding author), Univ Antilles Guyane, Cirad, Umr Ecol Forets Guyane, Campus Agron Kourou, F-97310 Kourou, France.
+NR 29
+TC 1
+Z9 1
+U1 0
+U2 12
+PU CIRAD-CENTRE COOPERATION INT RECHERCHE AGRONOMIQUE POUR
+PI MONTPELLIER
+PA B P 5035, MONTPELLIER, 00000, FRANCE
+SN 0006-579X
+J9 BOIS FOR TROP
+JI Bois For. Trop.
+PY 2012
+IS 311
+BP 49
+EP 61
+PG 13
+WC Forestry
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Forestry
+GA 953BT
+UT WOS:000304842600005
+DA 2023-02-14
+ER
+
+PT J
+AU Lanier, C
+   Brousmiche, D
+   Deram, A
+   Frank, L
+   Genin, M
+   Occelli, F
+   Cuny, D
+AF Lanier, Caroline
+   Brousmiche, Delphine
+   Deram, Annabelle
+   Frank, Lukas
+   Genin, Michael
+   Occelli, Florent
+   Cuny, Damien
+TI Characterization of the spatial heterogeneity of environmental and
+   social inequalities in health: a spatialized approach to the
+   resilience-vulnerability balance
+SO ENVIRONNEMENT RISQUES & SANTE
+LA French
+DT Article
+DE environment and public health; spatial analysis; environmental
+   monitoring
+ID INDEX
+AB All public policies should together battle environmental and social inequalities in health. The current paradigm describes these territorial inequalities as an accumulation of adverse health determinants in a given geographic area, generally understood as its vulnerability. The quasi-systematic absence of determinants that have a positive impact on health in the models prevents a realistic vision of the global impact of the environment on the population's health. The inclusion of resilience factors, such as the ability of territories to deal with environmental and social inequalities in health, is therefore needed and must include efforts to improve the inhabitants' living conditions. As seen in the northern France region, analysing a spatialized composite vulnerability index together with a spatialized composite resilience index makes it possible to describe the resilience/vulnerability balance at the municipal level. This approach will help researchers to better characterize environmental and social inequalities in health, improve knowledge of the territorial dynamics involved, and guide further examination of political and territorial management of health risks.
+C1 [Lanier, Caroline; Brousmiche, Delphine; Deram, Annabelle; Frank, Lukas; Occelli, Florent; Cuny, Damien] Univ Artois, Univ Lille, LGCgE Lab Genie Civil & Geoenvironm, IMT Lille Douai,Yncrea Hauts De France,ULR 4515, 3 Rue Prof Laguesse, F-59000 Lille, France.
+   [Lanier, Caroline; Deram, Annabelle; Occelli, Florent] Fac Ingn & Management Sante ILIS, Lille, France.
+   [Lanier, Caroline; Deram, Annabelle; Occelli, Florent; Cuny, Damien] Fac Pharm Lille LSVF, Lille, France.
+   [Genin, Michael] Univ Lille, CHU Lille, METRICS, ULR 2694, F-59000 Lille, France.
+C3 IMT - Institut Mines-Telecom; IMT Nord Europe; Universite d'Artois;
+   Universite de Lille - ISITE; Universite de Lille; Universite de Lille -
+   ISITE; CHU Lille; Universite de Lille
+RP Lanier, C (corresponding author), Univ Artois, Univ Lille, LGCgE Lab Genie Civil & Geoenvironm, IMT Lille Douai,Yncrea Hauts De France,ULR 4515, 3 Rue Prof Laguesse, F-59000 Lille, France.
+EM caroline.lanier@univ-lille.fr; delphine.brousmiche@univ-lille.fr;
+   annabelle.deram@univ-lille.fr; lukas.frank@outlook.fr;
+   michael.genin@univ-lille.fr; florent.occelli@univ-lille.fr;
+   damien.cuny@univ-lille.fr
+RI Genin, Michael/O-3639-2019; Lanier, Caroline/ABD-3673-2020
+OI Genin, Michael/0000-0002-9098-7528; Brousmiche,
+   Delphine/0000-0001-6361-2213
+NR 15
+TC 2
+Z9 2
+U1 0
+U2 7
+PU JOHN LIBBEY EUROTEXT LTD
+PI ARCUEIL
+PA 30, RUE BERTHOLLET, BATIMENT A, 94110 ARCUEIL, FRANCE
+SN 1635-0421
+EI 1952-3998
+J9 ENVIRON RISQUE SANTE
+JI Environ. Risque Sante
+PD JUL-AUG
+PY 2020
+VL 19
+IS 4
+BP 250
+EP 256
+DI 10.1684/ers.2020.1451
+PG 7
+WC Public, Environmental & Occupational Health
+WE Emerging Sources Citation Index (ESCI)
+SC Public, Environmental & Occupational Health
+GA MY7YM
+UT WOS:000558632400006
+DA 2023-02-14
+ER
+
+PT J
+AU Longepee, E
+AF Longepee, Esmeralda
+TI The resilience of Kiribati atolls' (Micronesia) to drought: comparison
+   between an urban system and a rural system
+SO CYBERGEO-EUROPEAN JOURNAL OF GEOGRAPHY
+LA French
+DT Article
+DE social-ecological system; drought; model; urban; rural
+ID SOCIAL-ECOLOGICAL SYSTEMS; SURROGATES
+AB Atolls have fragile environments offering limited resources that are susceptible to frequent droughts. Kiribati is an independent atoll state counting 100,000 inhabitants living in isolated and scattered atolls. The Gilbert archipelago where reside most of Kiribati's inhabitants is composed of one urban atoll and fifteen rural atolls. This paper intends to compare the resilience of two kinds of territorial models to drought. In the urban atoll of Tarawa, rapid urbanization has led to ecosystems degradation and the pollution of coastal waters and freshwater lenses. In rural atolls, inhabitants who have not migrated to Tarawa live from subsistence economy. A systemic approach based on conceptual models is used to estimate the resilience of both atolls to drought. It shows that two key variables in the resilience of both systems to drought are fresh groundwater and food security. In rural atolls, these two variables keep acceptable value during drought. In Tarawa, food dependence on foreign countries has decreased the resilience of this urban system to drought.
+C1 [Longepee, Esmeralda] CUFR Mayotte, Dembeni, Mayotte, France.
+RP Longepee, E (corresponding author), CUFR Mayotte, Dembeni, Mayotte, France.
+EM esmeralda.longepee@univ-mayotte.fr
+NR 67
+TC 2
+Z9 2
+U1 0
+U2 7
+PU CYBERGEO
+PI PARIS
+PA 13 RUE DU FOUR, PARIS, 75006, FRANCE
+SN 1278-3366
+J9 CYBERGEO
+JI CyberGeo
+PY 2016
+AR 774
+DI 10.4000/cybergeo.27526
+PG 32
+WC Geography
+WE Emerging Sources Citation Index (ESCI)
+SC Geography
+GA EZ3BX
+UT WOS:000404585900021
+OA gold, Green Submitted
+DA 2023-02-14
+ER
+
+PT J
+AU Mestre, I
+AF Mestre, Irene
+TI When Shepherds Mine Mountains: The Impact of Artisanal Mining on
+   Agropastoral Systems in Kyrgyzstan. Case Study of Naryn Province
+SO REVUE DE GEOGRAPHIE ALPINE-JOURNAL OF ALPINE RESEARCH
+LA French
+DT Article
+DE territorial resilience; pastures; networks; socio-ecological systems;
+   ex-USSR; shepherd; agropastoralism; mining
+AB In 2009, Kyrgyzstan adopted a community-based pasture management model. While agropastoralism is the main subsistence activity for 65% of the population living in rural areas,pastures are also an essential resource for other activities, such as mining. By analysing a rural municipality where agropastoralism and mining co-exist, we explore the impacts of artisanal mining activities on community-based pasture management and territorial resilience. Our key findings show that mining income is capitalised in the form of livestock, and that the mechanisms for animal herding by agropastoralists who are not involved in mining activities and who live on the periphery and have little access to formal decision-making processes are at risk of further marginalisation. Furthermore, the lack of mechanisms for collecting and analysing data on the state of the natural resources necessary for agropastoralism, such as water and pastures, poses a risk to community-based pasture management. Finally, interactions within the system and between the system and external components are a transversal issue for the maintenance of community-based management. Thus, the co-existence of high incomegenerating activities and traditional activities such as agropastoralism does not limit community-based management and can even be a lever for a dynamic process that helps to support the creation of management rules.
+C1 [Mestre, Irene] Univ Jean Moulin Lyon III, UMR EVS 5600, Lyon, France.
+C3 Centre National de la Recherche Scientifique (CNRS); CNRS - Institute of
+   Ecology & Environment (INEE); Ecole Normale Superieure de Lyon (ENS de
+   LYON); Institut National des Sciences Appliquees de Lyon - INSA Lyon;
+   Universite Jean Monnet; Universite Jean Moulin Lyon 3; Universite Lyon 2
+RP Mestre, I (corresponding author), Univ Jean Moulin Lyon III, UMR EVS 5600, Lyon, France.
+EM irene_mestre@hotmail.com
+NR 26
+TC 0
+Z9 0
+U1 0
+U2 6
+PU IGA-ASSOC DIFFUSION RECHERCHE ALPINE
+PI GRENOBLE
+PA 14 BIS AVENUE MARIE REYNOARD, GRENOBLE, 38100, FRANCE
+SN 0035-1121
+EI 1760-7426
+J9 REV GEOGR ALP
+JI Rev. Geogr. Alp.
+PY 2017
+VL 105
+IS 1
+PG 18
+WC Geography
+WE Social Science Citation Index (SSCI)
+SC Geography
+GA ET6UA
+UT WOS:000400426800003
+DA 2023-02-14
+ER
+
+PT J
+AU Rainaud, A
+AF Rainaud, Anne
+TI Nuclear terrorism and territorial security: International mobilization
+   to prevent a cross-border threat
+SO SOCIETES
+LA French
+DT Article
+DE nuclear terrorism; resilience; multilateralism; diplomacy
+AB Nuclear terrorism constitutes a particularly worrying threat to the security of states' territories. This threat is transboundary. On the one hand, the imperative of nuclear prevention has manifested itself in institutional cooperation with at least two large organizations, the UN and the IAEA. On the other hand, diplomatic cooperation testifies to the real vitality of international initiatives on these issues. There is a complementarity of approaches, with diplomacy making it possible to overcome obstacles and advance the legal understanding of nuclear security.
+C1 [Rainaud, Anne] Univ Cote dAzur, Conf HDR Droit Publ, CERDACFF, Nice, France.
+C3 UDICE-French Research Universities; Universite Cote d'Azur
+RP Rainaud, A (corresponding author), Univ Cote dAzur, Conf HDR Droit Publ, CERDACFF, Nice, France.
+NR 3
+TC 0
+Z9 0
+U1 3
+U2 4
+PU DE BOECK UNIV
+PI LOUVAIN-LA-NEUVE
+PA FOND JEAN-PAQUES 4,, B-1348 LOUVAIN-LA-NEUVE, BELGIUM
+SN 0765-3697
+EI 1782-155X
+J9 SOCIETES
+JI Societes
+PY 2021
+VL 152
+IS 2
+BP 37
+EP 46
+PG 10
+WC Humanities, Multidisciplinary
+WE Arts &amp; Humanities Citation Index (A&amp;HCI)
+SC Arts & Humanities - Other Topics
+GA WL5JY
+UT WOS:000710442500005
+DA 2023-02-14
+ER
+
+PT J
+AU Crozier, D
+   Jouannic, G
+   Minh, CTD
+   Kolli, Z
+   Matagne, E
+   Arbizzi, S
+AF Crozier, Denis
+   Jouannic, Gwenael
+   Chloe Tran Duc Minh
+   Kolli, Zehir
+   Matagne, Eric
+   Arbizzi, Sandrine
+TI Post-disaster Recovery: a Window of Opportunity to Reduce the
+   Territorial Vulnerability?
+SO ESPACES-POPULATIONS-SOCIETES
+LA French
+DT Article
+DE post-disaster; recovery; build back better; vulnerability; resilience
+AB The disaster management cycle contains three phases: 1) prevention during the pre-disaster period, 2) crisis management during the disaster, and then 3) post-disaster recovery. The "predisaster" period and the "crisis" period are the most studied phases and monopolize most of the resources and risk management tools. The post-disaster period is complex, poorly understood, little anticipated, and characterized by the involvement of a wide range of stakeholders. In most cases, the collective desire is to recover the initial state, without learning from the disaster. Nevertheless, the post-disaster period could be viewed as an opportunity to reorganize the territory more effectively to reduce its vulnerability in anticipation of future flood events. To explore this hypothesis, this work consists of analyzing the post-flood phase based on a bibliographical study, with some analytical commentary. These results will lead to enhanced understanding of the concept of "recovery" in the post-disaster phase
+C1 [Crozier, Denis; Chloe Tran Duc Minh; Matagne, Eric] CEREMA, 9 Rue Rene Viviani, F-44200 Nantes, France.
+   [Jouannic, Gwenael; Kolli, Zehir] CEREMA, 71 Rue Grande Haie, F-54510 Tomblaine, France.
+   [Arbizzi, Sandrine] CEREMA, Ave Albert Einstein CS 70499, F-13593 Aix En Provence, France.
+RP Crozier, D (corresponding author), CEREMA, 9 Rue Rene Viviani, F-44200 Nantes, France.
+EM denis.crozier@cerema.fr; gwenael.jouannic@cerema.fr;
+   chloe.tran-duc-minh@cerema.fr; zehir.kolli@cerema.fr;
+   ericmat@hotmail.fr; Sandrine.Arbizzi@cerema.fr
+RI Jouannic, Gwenael/ABG-7687-2020
+OI Jouannic, Gwenael/0000-0003-3399-389X
+NR 38
+TC 3
+Z9 3
+U1 0
+U2 9
+PU UNIV LILLE I SCI & TECH
+PI VILLENEUVE D ASCQ
+PA UFR GEOGRAPHIE & AMENAGEMENT, AV PAUL LANGEVIN, VILLENEUVE D ASCQ, CEDEX
+   59655, FRANCE
+SN 0755-7809
+EI 2104-3752
+J9 ESPACES-POPUL-SOC
+JI Espaces-Popul.-Soc.
+PY 2016
+IS 3
+DI 10.4000/eps.7033
+PG 20
+WC Geography
+WE Emerging Sources Citation Index (ESCI)
+SC Geography
+GA ET5ZF
+UT WOS:000400369400009
+OA Green Submitted, gold
+DA 2023-02-14
+ER
+
+PT J
+AU Requier-Desjardins, M
+   Melot, R
+   Paoli, JC
+   Rodrigues, O
+   Riaux, J
+AF Requier-Desjardins, Melanie
+   Melot, Romain
+   Paoli, Jean-Christophe
+   Rodrigues, Orlando
+   Riaux, Jeanne
+TI Land tenure in the Mediterranean : a north and south dichotomy?
+SO DEVELOPPEMENT DURABLE & TERRITOIRES
+LA French
+DT Article
+DE Mediterranean land tenure; property-rights; impact of public policies;
+   bundle of rights; multi-scale analysis; territorial development; local
+   development
+AB This introduction brings together the arguments from the texts of the special section "Transformations of Rural Land and Collective Strategies in the Mediterranean : Between Conflicts and Territorial Resilience", and from the literature, with the aim of showing that Mediterranean land tenure and property-rights topics shares similar entries on both sides of the Mediterranean. This concerns the observations and analyses made on land dynamics together with the methodological and conceptual approaches used in the North and South of the Mediterranean.
+C1 [Requier-Desjardins, Melanie] CIHEAM IAMM, Montpellier, France.
+   [Melot, Romain] INRAE, AgroParisTech, UMR SADAPT, Paris, France.
+   [Paoli, Jean-Christophe] INRAE, LRDE Corte, Corte, France.
+   [Rodrigues, Orlando] Inst Polytech Braganca, CIMO, Braganca, Portugal.
+   [Riaux, Jeanne] IRD, UMR GEAU, Montpellier, France.
+C3 CIHEAM; CIHEAM IAM Montpellier; AgroParisTech; INRAE; UDICE-French
+   Research Universities; Universite Paris Saclay; INRAE; Instituto
+   Politecnico de Braganca; Institut de Recherche pour le Developpement
+   (IRD)
+RP Requier-Desjardins, M (corresponding author), CIHEAM IAMM, Montpellier, France.
+EM requier@iamm.fr; romain.melot@agroparistech.fr;
+   jean-christophe.paoli@inra.fr; orlando@ipb.pt; jeanne.riaux@ird.fr
+NR 36
+TC 0
+Z9 0
+U1 0
+U2 2
+PU RESEAU DEVELOPPEMENT DURABLE & TERRITOIRES FRAGILES
+PI VILLENEUVE D ASCQ
+PA RESEAU DEVELOPPEMENT DURABLE & TERRITOIRES FRAGILES, VILLENEUVE D ASCQ,
+   00000, FRANCE
+SN 1772-9971
+J9 DEV DURABLE TERRIT
+JI Dev. Durable Territ.
+PD DEC
+PY 2019
+VL 10
+IS 3
+AR 16341
+DI 10.4000/developpementdurable.16341
+PG 14
+WC Geography
+WE Emerging Sources Citation Index (ESCI)
+SC Geography
+GA KC8AB
+UT WOS:000507392800022
+OA gold, Green Submitted
+DA 2023-02-14
+ER
+
+PT J
+AU Rey-Valette, H
+   Rulleau, B
+AF Rey-Valette, Helene
+   Rulleau, Benedicte
+TI Governance of relocation policies in the face of sea-level rise risk
+SO DEVELOPPEMENT DURABLE & TERRITOIRES
+LA French
+DT Article
+DE climate change; managed realignment; risk perception; territorial
+   solidarity; resilience; libertarian paternalism
+ID PERCEPTIONS; ADAPTATION
+AB Sea-level rise related to climate change will tend to increase the risk of marine inundation. The sustainability of beaches, which are a natural strategic asset for coastal zones given the recreational and storm protection services that they provide, may be threatened. This article addresses the local governance conditions for adaptation policies through the case of relocation which is one of the recommended measures for adaptation to sea level rise. In addition to the funding issue, the local governance conditions for these policies are addressed through a review of arrangements that would support the implementation of relocation. The article focuses in particular on the contribution of the recent concept of libertarian paternalism which orients towards agents towards well-being promoting public interventions.
+C1 [Rey-Valette, Helene] Univ Montpellier I, Fac Econ, LAMETA, Ave Raymond Dugrand,CS 79606, F-34960 Montpellier 2, France.
+   [Rulleau, Benedicte] Univ Versailles St Quentin En Yvelines, CEARC, OVSQ, 11 Blvd Alembert, F-78280 Guyancourt, France.
+   [Rulleau, Benedicte] Irstea, UR ETBX, 50 Ave Verdun, F-33610 Cestas, France.
+C3 Institut Agro; Montpellier SupAgro; Centre National de la Recherche
+   Scientifique (CNRS); Universite de Montpellier; UDICE-French Research
+   Universities; Universite Paris Saclay; INRAE
+RP Rey-Valette, H (corresponding author), Univ Montpellier I, Fac Econ, LAMETA, Ave Raymond Dugrand,CS 79606, F-34960 Montpellier 2, France.
+EM helene.rey-valette@univ-montp1.fr; benedicte.rulleau@irstea.fr
+NR 55
+TC 0
+Z9 0
+U1 0
+U2 4
+PU RESEAU DEVELOPPEMENT DURABLE & TERRITOIRES FRAGILES
+PI VILLENEUVE D ASCQ
+PA RESEAU DEVELOPPEMENT DURABLE & TERRITOIRES FRAGILES, VILLENEUVE D ASCQ,
+   00000, FRANCE
+SN 1772-9971
+J9 DEV DURABLE TERRIT
+JI Dev. Durable Territ.
+PD APR
+PY 2016
+VL 7
+IS 1
+PG 15
+WC Geography
+WE Emerging Sources Citation Index (ESCI)
+SC Geography
+GA ED2ZF
+UT WOS:000388718100024
+DA 2023-02-14
+ER
+
+PT J
+AU Gonzva, M
+   Barroca, B
+   Lhomme, S
+   Gautier, PE
+   Diab, Y
+AF Gonzva, Michael
+   Barroca, Bruno
+   Lhomme, Serge
+   Gautier, Pierre-Etienne
+   Diab, Youssef
+TI Contribution of operational safety to the spatial analysis of flood risk
+SO REVUE INTERNATIONALE DE GEOMATIQUE
+LA French
+DT Article
+DE urban technical system; natural risk; functional model; relational model
+ID RESILIENCE; TOOL
+AB The urban technical systems are subjected to major stakes, such as climatic and territorial issues, which affect their functioning. These stakes can make the technical systems vulnerable to natural hazards. But, the traditional methodologies used for vulnerability analyses are hazard-oriented. They are focused on the hazard as a physical process and on the direct damages to the system. This approach is found to be unsuitable for analyzing systems with a high level of complexity, interconnectedness and linkages with other urban technical systems, and with many and varied failures processes. This paper analyzes the vulnerability of guided transport systems facing flood risk. This research focuses on an innovative approach of risks analysis that associates safety and dependability methods with methods from geomatics. The geographical information allows this combination between these two very different types of methods. The chosen approach is system-oriented in order to elaborate a methodology for characterizing any direct and indirect damages to the system. The global goal is to highlight the contribution of this innovative approach for the urban risk management, and so improve the resilience of cities facing of flood risks.
+C1 [Gonzva, Michael; Barroca, Bruno; Diab, Youssef] Univ Paris Est Marne la Vallee, Dept Genie Urbain, Lab Urba, 6-8 Ave Blaise Pascal, F-77455 Marne La Vallee 2, France.
+   [Lhomme, Serge] Univ Paris Est Creteil, Dept Geog, Lab Urba, Campus Ctr,61 Ave Gen Gaulle, F-94010 Creteil, France.
+   [Gonzva, Michael; Gautier, Pierre-Etienne] SYSTRA, Direct Innovat, 72 Rue Henry Farman, F-75015 Paris, France.
+   [Diab, Youssef] Univ Paris Est, Ecole Ingn Ville Paris, 78-80 Rue Rebeval, F-75019 Paris, France.
+C3 Universite Gustave-Eiffel; Universite Paris-Est-Creteil-Val-de-Marne
+   (UPEC); Universite Gustave-Eiffel
+RP Gonzva, M (corresponding author), Univ Paris Est Marne la Vallee, Dept Genie Urbain, Lab Urba, 6-8 Ave Blaise Pascal, F-77455 Marne La Vallee 2, France.; Gonzva, M (corresponding author), SYSTRA, Direct Innovat, 72 Rue Henry Farman, F-75015 Paris, France.
+RI Barroca, Bruno/ABF-5436-2020
+OI Barroca, Bruno/0000-0001-6653-0803
+NR 76
+TC 2
+Z9 2
+U1 1
+U2 5
+PU LAVOISIER
+PI CACHAN
+PA 14, RUE DE PROVIGNY, 94236 CACHAN, FRANCE
+SN 1260-5875
+EI 2116-7060
+J9 REV INT GEOMAT
+JI Rev. Int. Geomat.
+PD JUL-SEP
+PY 2016
+VL 26
+IS 3
+BP 329
+EP 361
+DI 10.3166/rig.2016.00003
+PG 33
+WC Remote Sensing
+WE Emerging Sources Citation Index (ESCI)
+SC Remote Sensing
+GA EO8ZU
+UT WOS:000396979800004
+OA Green Submitted
+DA 2023-02-14
+ER
+
+PT J
+AU Caillaud, D
+   Coueffe, D
+   Georgel, R
+   Moussu, JP
+   Zsitko, JM
+AF Caillaud, D.
+   Coueffe, D.
+   Georgel, R.
+   Moussu, J. -P.
+   Zsitko, J-M.
+TI Grass-based dairy systems in the east of France: a paradoxical success
+SO FOURRAGES
+LA French
+DT Article
+DE Champagne-Ardenne; dairying; economical analysis; energy analysis;
+   forage production; forage system; inter-annual variations; Lorraine;
+   maize; mineral balance; permanent pasture
+AB The number of strictly grass-based dairy systems in the east of France is decreasing at a fast pace. The ongoing re-structuring of dairy farming, as well as the end of milk quotas raise concern that this type of forage system will be abandoned for the benefit of maize-based systems. Yet, surveys carried out as part of the Reseaux d'elevage scheme have shown the many benefits of grass-based systems: good economic results, resilience to climatic hazards and unfavourable economic factors, improved mineral intake and reduced consumption of fossil energy per unit of milk produced. The increasing size of farms could mean the end of these grass-based systems: which might only subsist through the help of territorial initiatives (Natura 2000), and rely on the promotion of quality produce as a means of sustaining their activity. By anticipating the demand of end-consumers for quality produce, the dairy industry could help promote these sustainable systems.
+C1 [Caillaud, D.] Inst Elevage, F-54520 Laxou, France.
+   [Coueffe, D.] Chambre Agr Haute Marne, F-52011 Chaumont, France.
+   [Georgel, R.] EDE Vosges, F-88000 Epinal, France.
+   [Moussu, J. -P.] EDE Ardennes, F-08010 Villers Semeuse, France.
+   [Zsitko, J-M.] EDE Meurthe & Moselle, F-54524 Laxou, France.
+RP Caillaud, D (corresponding author), Inst Elevage, 9 Rue Vologne, F-54520 Laxou, France.
+EM dominique.caillaud@idele.fr
+NR 7
+TC 0
+Z9 0
+U1 0
+U2 5
+PU ASSOC FRANCAISE PRODUCTION FOURRAGERE
+PI PARIS CEDEX 12
+PA  MAISON NATIONALE DES ELEVEURS -149 RUE DE BERCY, PARIS CEDEX 12, FRANCE
+SN 0429-2766
+J9 FOURRAGES
+JI Fourrages
+PD MAR
+PY 2013
+IS 213
+BP 3
+EP 9
+PG 7
+WC Agriculture, Dairy & Animal Science
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Agriculture
+GA V35ZP
+UT WOS:000209183800001
+DA 2023-02-14
+ER
+
+PT J
+AU Gros-Balthazard, M
+AF Gros-Balthazard, Marjolaine
+TI The trajectories of French industrial territories: expansion,
+   industrialization, mutation, shrinkage
+SO REVUE D ECONOMIE REGIONALE ET URBAINE
+LA French
+DT Article
+DE deindustrialization; industrial territories; industry; territorial
+   development; trajectories
+ID ECONOMIC-GEOGRAPHY; REGIONAL RESILIENCE; DEINDUSTRIALIZATION;
+   DIVERSIFICATION; INSIGHTS; VARIETY
+AB In France, after several decades of belief in the advent of a post-industrial economy, the question of the future of industry arises again. Industry has not disappeared and still shaping many territories. After the economic crisis of 2008, discourses relayed on them were often reductive or fatalistic. To objectify these discourses, we propose to analyze what are the French industrial territories. Assuming that territories are largely dependent on their past, this article provides an analysis that takes into account local trajectories over the last fifty years. It draws on two complementary analytical grids. Based on a comparison of the share of industrial employment in 1975 and 2012, the first distinguishes three major types of industrial living areas: ex-industrial, tradi-industrial and neo-industrial. Thanks to a study of the evolution of industrial employment and total employment, the second one furthers this first typology, by revealing four major forms of trajectories that are expansion (increase in total employment and in industrial employment), industrialization (decrease in total employment, increase in industrial employment), mutation (increase in total employment, decrease in industrial employment) and shrinkage (decrease in total employment and decrease in industrial employment). We study these trajectories for each types of living areas on three sub-periods (1975-1990; 1990-2007; 2007-2012). Then, we show the multiplicity of sequences and the influence limited of structural factors (macro-economic evolution, sectoral structure, spatial dimension). Considering that not all of industrial territories are in shrinkage especially over the three sub-periods, our analysis highlights the diversity of (past and present) situations, which conduct us to differentiate challenges that they face.
+C1 [Gros-Balthazard, Marjolaine] Univ Lausanne, Inst Geog & Durabilite, Lausanne, Switzerland.
+C3 University of Lausanne
+RP Gros-Balthazard, M (corresponding author), Univ Lausanne, Inst Geog & Durabilite, Lausanne, Switzerland.
+EM marjolaine.gros-balthazard@unil.ch
+NR 102
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ARMAND COLIN
+PI PARIS CEDEX 05
+PA 5 RUE LAROMIGUIERE, PARIS CEDEX 05, 75240, FRANCE
+SN 0180-7307
+EI 2107-0865
+J9 REV ECON REG URBAINE
+JI Rev. Econ. Reg. Urbaine
+PD MAR
+PY 2020
+IS 3
+BP 369
+EP 407
+PG 39
+WC Economics
+WE Emerging Sources Citation Index (ESCI)
+SC Business & Economics
+GA NY1SO
+UT WOS:000576178300002
+DA 2023-02-14
+ER
+
+PT J
+AU El Jihad, MD
+AF El Jihad, Moulay-Driss
+TI Climate Change and Rural Development in the Middle Atlas Mountains and
+   Fringe Areas (Morocco)
+SO REVUE DE GEOGRAPHIE ALPINE-JOURNAL OF ALPINE RESEARCH
+LA French
+DT Article
+DE climate change; mountain ecosystems; rural development; Middle Atlas;
+   Morocco
+AB In Morocco, studies on the relationship between climate change and rural development policies, especially in the mountains, are few and far between. This article takes a geopolitical approach to this particular issue in the Middle Atlas. Until the 1990s, rural development policies were based on the fight against forest degradation and soil erosion, first and foremost with a view to reducing dam silting. Since the early 2000s, efforts have focused on direct contact with the population in order to meet their needs. However, integration of the forestry sector into the agricultural system has not yielded the expected results. People, deeply concerned by the multifaceted impacts of climate change, have not been particularly receptive to sectoral proposals of projects related to forest heritage management. To address this concern, new development programs have been implemented and decentralised at the municipal level. Although projects still fall short of needs, the new approach to rural development is more territorial in terms of improving the resilience of populations to climate change at present and in the future.
+C1 [El Jihad, Moulay-Driss] Univ Poitiers, MSHS, Ruralites, TSA 21103, Batiment A5,5 Rue Theodore Lefebvre, F-86073 Poitiers 9, France.
+C3 Universite de Poitiers
+RP El Jihad, MD (corresponding author), Univ Poitiers, MSHS, Ruralites, TSA 21103, Batiment A5,5 Rue Theodore Lefebvre, F-86073 Poitiers 9, France.
+EM d.eljihad@yahoo.fr
+NR 35
+TC 0
+Z9 0
+U1 1
+U2 5
+PU IGA-ASSOC DIFFUSION RECHERCHE ALPINE
+PI GRENOBLE
+PA 14 BIS AVENUE MARIE REYNOARD, GRENOBLE, 38100, FRANCE
+SN 0035-1121
+EI 1760-7426
+J9 REV GEOGR ALP
+JI Rev. Geogr. Alp.
+PY 2016
+VL 104
+IS 4
+PG 18
+WC Geography
+WE Social Science Citation Index (SSCI)
+SC Geography
+GA EI6GT
+UT WOS:000392594100005
+DA 2023-02-14
+ER
+
+PT J
+AU Bazile, D
+   Andreotti, F
+   Biaggi, C
+   Murillo, AC
+   Chevarria-Lazo, M
+   Chura, E
+   Garland, G
+   Gonzalez, JA
+   Mujica-Sanchez, A
+   Tapia-Nunez, ME
+AF Bazile, Didier
+   Andreotti, Federico
+   Biaggi, Cristina
+   Canahua Murillo, Alipio
+   Chevarria-Lazo, Marco
+   Chura, Ernesto
+   Garland, Gerardo
+   Antonio Gonzalez, Juan
+   Mujica-Sanchez, Angel
+   Tapia-Nunez, Mario E.
+TI The Quinoa at the time of COVID-19: new coordination between Andean
+   producers
+SO CAHIERS AGRICULTURES
+LA French
+DT Article
+DE Chenopodium quinoa Willd; Peru; agricultural value chains;
+   globalization; agroecology
+AB Quinoa has been cultivated for millennia in the Andes since its domestication on the shores of Lake Titicaca, between Peru and Bolivia. As a rustic crop of the Andean highlands, it has conquered the international market for less than thirty years. Today, Peru has become the world's leading producer and the majority of its production is exported. Produced locally by small-scale farmers and consumed globally, quinoa reflects the context of the globalization of agriculture and food. The COVID-19 crisis has also affected Peru and it raises questions about the robustness and resilience of export food chains. This opinion article looks back at debates organized in May-June 2020 in Peru. After recalling the general context of the cultivation of quinoa and the link between COVID-19, agriculture and biodiversity, we highlight the links between health crisis, agricultural crisis and food crisis. This global pandemic offers us the opportunity to question the current agricultural models to draw lessons to build the future. The projection of new solidarities through a collective trademark appears to carry a transnational territorial project at Andean level. Accompanying the actors to make it an inclusive development model requires adapted participatory tools.
+C1 [Bazile, Didier; Andreotti, Federico] CIRAD, UMR SENS, F-34398 Montpellier, France.
+   [Bazile, Didier; Andreotti, Federico] Univ Montpellier, CIRAD, SENS, Montpellier, France.
+   [Andreotti, Federico] Wageningen Univ & Res, Lab Geoinformat Sci & Remote Sensing, NL-6708 PB Wageningen, Netherlands.
+   [Biaggi, Cristina] Inst Nacl Tecnol Agr, San Miguel De Tucuman, Argentina.
+   [Canahua Murillo, Alipio; Chura, Ernesto; Mujica-Sanchez, Angel] Univ Nacl Altiplano, Puno, Peru.
+   [Chevarria-Lazo, Marco] Juriste Environm, Cuzco, Peru.
+   [Garland, Gerardo] JIWRA SAC, Arequipa, Peru.
+   [Antonio Gonzalez, Juan] Fdn Miguel Lillo, Inst Ecol, San Miguel De Tucuman, Argentina.
+   [Tapia-Nunez, Mario E.] Univ Global, Cuzco, Peru.
+C3 CIRAD; CIRAD; Universite de Montpellier; Wageningen University &
+   Research; Instituto Nacional de Tecnologia Agropecuaria (INTA);
+   Universidad Nacional del Altiplano; Consejo Nacional de Investigaciones
+   Cientificas y Tecnicas (CONICET); Miguel Lillo Foundation
+RP Bazile, D (corresponding author), CIRAD, UMR SENS, F-34398 Montpellier, France.; Bazile, D (corresponding author), Univ Montpellier, CIRAD, SENS, Montpellier, France.
+EM didier.bazile@cirad.fr
+RI BAZILE, Didier/L-3859-2019
+OI BAZILE, Didier/0000-0001-5617-9319; Mujica Sanchez, Angel Mauricio
+   Holguer/0000-0002-7013-8780
+NR 27
+TC 1
+Z9 1
+U1 2
+U2 18
+PU EDP SCIENCES S A
+PI LES ULIS CEDEX A
+PA 17, AVE DU HOGGAR, PA COURTABOEUF, BP 112, F-91944 LES ULIS CEDEX A,
+   FRANCE
+SN 1166-7699
+EI 1777-5949
+J9 CAH AGRIC
+JI Cah. Agric.
+PD JUL 14
+PY 2021
+VL 30
+AR 28
+DI 10.1051/cagri/2021016
+PG 7
+WC Agriculture, Multidisciplinary; Agronomy
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Agriculture
+GA TJ3WE
+UT WOS:000673415300001
+OA Green Published, gold
+DA 2023-02-14
+ER
+
+PT J
+AU Esparon, S
+AF Esparon, Stephane
+TI The municipalities conurbation as scale to studying a forest actors
+   network
+SO REVUE D ECONOMIE REGIONALE ET URBAINE
+LA French
+DT Article
+DE forest network; industrial ecology; municipality conurbation; territory
+ID INDUSTRIAL SYMBIOSIS; RESILIENCE; ROBUSTNESS; ECOSYSTEMS
+AB Recent work has shown the influence of topology on systemic capacity. However, since the law on the energy transition to green growth, policies encourage the circular economy approach. Owing to is nature, industrial ecology, one of the pillars of circular economy, restructures logistical and economics relations between companies. It is legitimate to investigate the influence of widespread and systematic implementation of this approach on the systemic capacity of production systems. The forest sector reconstruction of the "Landes de Gascogne" in a post storm context is the opportunity to question this new economic structuring approach advised by public policies. We propose an original analysis framework named Expanded network of value creation. The latter is based on a methodological approach requiring a local authority perimeter. Through a literature review, we propose the agglomeration of municipalities as an appropriate unit. This territorial unit combines the basics criteria and success factors of industrial ecology approaches.
+C1 [Esparon, Stephane] Bordeaux Sci Agro, Bordeaux, France.
+   [Esparon, Stephane] CNRS, UMR 5113, GRETHA, Paris, France.
+C3 Centre National de la Recherche Scientifique (CNRS); CNRS - Institute
+   for Humanities & Social Sciences (INSHS)
+RP Esparon, S (corresponding author), Bordeaux Sci Agro, Bordeaux, France.; Esparon, S (corresponding author), CNRS, UMR 5113, GRETHA, Paris, France.
+EM stephane.esparon@agro-bordeaux.fr
+OI ESPARON, Stephane/0000-0002-7410-5257
+NR 60
+TC 2
+Z9 2
+U1 1
+U2 9
+PU ARMAND COLIN
+PI PARIS CEDEX 05
+PA 5 RUE LAROMIGUIERE, PARIS CEDEX 05, 75240, FRANCE
+SN 0180-7307
+EI 2107-0865
+J9 REV ECON REG URBAINE
+JI Rev. Econ. Reg. Urbaine
+PD DEC
+PY 2017
+IS 5
+BP 837
+EP 856
+DI 10.3917/reru.175.0837
+PG 20
+WC Economics
+WE Emerging Sources Citation Index (ESCI)
+SC Business & Economics
+GA FU5ZJ
+UT WOS:000423931200004
+DA 2023-02-14
+ER
+
+PT J
+AU Duru, M
+   Fares, M
+   Therond, O
+AF Duru, Michel
+   Fares, M'hand
+   Therond, Olivier
+TI A conceptual framework for thinking now (and organising tomorrow) the
+   agroecological transition at the level of the territory
+SO CAHIERS AGRICULTURES
+LA French
+DT Article
+DE agricultural systems; agroecology; decision making; sustainability
+ID SOCIAL-ECOLOGICAL SYSTEMS; AGRICULTURAL SUSTAINABILITY; LOCK-IN;
+   MANAGEMENT; KNOWLEDGE; RESILIENCE; PRINCIPLES; CONSERVATION;
+   BIODIVERSITY; PERSPECTIVE
+AB The strong negative impacts of agriculture on the environment, combined with the energy crisis and the slowdown of the productivist model, has led to two forms of regreening of agriculture. One, called "weak ecological modernisation'' corresponds to the implementation of good agricultural practices that improve input efficiency. The other, called "strong ecological modernisation'' is based on ecosystem services provided by biodiversity. It corresponds to a paradigm shift due to the complexity in designing and implementing it. Strong ecologisation of agriculture requires to deeply revise farming systems, resource management at the territorial/landscape level, and the agrifood chain. After reviewing the principles underpinning this type of agriculture, we analyse the strengths and weaknesses of three conceptual frameworks (farming systems, socio-ecological systems and sociotechnical systems) with respect to this goal. We then propose an interdisciplinary multilevel conceptual framework integrating and articulating the three previous ones. It describes the nature of the system affected by this agroecological transition. This framework formalizes a system of actors whose behaviour is determined by formal and informal norms and agreements, interacting via technology, with farms, landscape and agrifood chain resources. This conceptual framework is intended to be used to analyse current agricultural systems at the territorial level and design strongly ecologised agricultural systems or "territorialized agroecological systems.'' In the following, we analyse the conditions for the implementation of the strong ecologisation of agriculture. We emphasize in particular the diversity of innovations to promote, the diversity of actors to coordinate, and therefore the need to implement a participatory, holistic, transdisciplinary and "localized'' (so called "territorialized'') design approach of the features of agroecological transition.
+C1 [Duru, Michel; Fares, M'hand; Therond, Olivier] INRA, UMR AGIR, F-31326 Castanet Tolosan, France.
+C3 INRAE
+RP Duru, M (corresponding author), INRA, UMR AGIR, 24 Chemin Borde Rouge,BP 52627, F-31326 Castanet Tolosan, France.
+EM mduru@toulouse.inra.fr; mfares@toulouse.inra.fr;
+   olivier.therond@toulouse.inra.fr
+OI Therond, Olivier/0000-0003-0191-3509
+NR 73
+TC 38
+Z9 38
+U1 3
+U2 91
+PU EDP SCIENCES S A
+PI LES ULIS CEDEX A
+PA 17, AVE DU HOGGAR, PA COURTABOEUF, BP 112, F-91944 LES ULIS CEDEX A,
+   FRANCE
+SN 1166-7699
+EI 1777-5949
+J9 CAH AGRIC
+JI Cah. Agric.
+PD MAR-APR
+PY 2014
+VL 23
+IS 2
+BP 84
+EP 95
+DI 10.1684/agr.2014.0691
+PG 12
+WC Agriculture, Multidisciplinary; Agronomy
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Agriculture
+GA AH5KH
+UT WOS:000336167300003
+OA Green Submitted, gold
+DA 2023-02-14
+ER
+
+PT J
+AU Carrere, P
+   Plantureux, S
+   Pottier, E
+AF Carrere, P.
+   Plantureux, S.
+   Pottier, E.
+TI Reconciling services rendered by grassland in order to ensure the
+   sustainability of grassland farming systems
+SO FOURRAGES
+LA French
+DT Article
+DE Biodiversity; change in time; ecosystem services; forage system;
+   grassland multi-functionality; land management; permanent pasture
+ID AGRICULTURAL PRACTICES; CLIMATIC VARIABILITY; CARBON STORAGE;
+   BIODIVERSITY; TERRESTRIAL; RESILIENCE; STABILITY; IMPACTS
+AB The emergence of new societal expectations plus the new challenges induced by global change, force us to reconsider the way in which we view livestock farming systems. The wide range of services and goods provided by grassland ecosystems offers a considerable opportunity for the future of grassland systems in the face of current challenges. Adopting a multifunctional approach makes it possible to reconcile environmental benefits and production services. Moreover, new opportunities will emerge if the functional role of biodiversity is integrated in the rationalization of management practices. This calls for the elaboration of a model of development which smoothly reconciles services. A new pluridisciplinary expert approach involving territorial players and all those benefiting from rendered services needs to be developed.
+C1 [Carrere, P.] INRA, Ecosyst Prairiaux UR874, F-63039 Clermont Ferrand, France.
+   [Plantureux, S.] Univ Lorraine, INRA, UMR Agron & Environm, F-54500 Vandoeuvre Les Nancy, France.
+   [Pottier, E.] Inst Elevage, F-87800 Ferme Du Mourier, Saint Priest Li, France.
+C3 INRAE; INRAE; Universite de Lorraine
+RP Carrere, P (corresponding author), INRA, Ecosyst Prairiaux UR874, F-63039 Clermont Ferrand, France.
+EM pascal.carrere@clermont.inra.fr
+NR 50
+TC 12
+Z9 12
+U1 0
+U2 23
+PU ASSOC FRANCAISE PRODUCTION FOURRAGERE
+PI PARIS CEDEX 12
+PA  MAISON NATIONALE DES ELEVEURS -149 RUE DE BERCY, PARIS CEDEX 12, FRANCE
+SN 0429-2766
+J9 FOURRAGES
+JI Fourrages
+PD SEP
+PY 2012
+IS 211
+BP 213
+EP 218
+PG 6
+WC Agriculture, Dairy & Animal Science
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Agriculture
+GA 033AI
+UT WOS:000310764200005
+DA 2023-02-14
+ER
+
+EF

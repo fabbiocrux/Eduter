@@ -1,0 +1,299 @@
+---
+title: "Veille et recherche documentaire"
+subtitle: "Outils pour organiser la recherche"  
+author: 
+  - "Fabio CRUZ"
+date: '`r Sys.Date()`'
+output:
+  xaringan::moon_reader:
+    css: assets/xaringan-themer.css
+    nature:
+      slideNumberFormat: "%current%/%total%" 
+      highlightStyle: github
+      highlightLines: true
+      ratio: 16:9
+      countIncrementalSlides: true
+      navigation:
+         scroll: false
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+knitr::opts_chunk$set(
+  fig.width=9, fig.height=3.5, fig.retina=3,
+  out.width = "100%",
+  cache = FALSE,
+  echo = FALSE,
+  message = FALSE, 
+  warning = FALSE,
+  hiline = TRUE
+)
+
+
+xaringanExtra::use_xaringan_extra(c("tile_view", "animate_css", "tachyons", "share_again"))
+
+
+```
+
+
+
+
+# Objectives
+
+1. Structuration d'un document scientifique
+
+2. Des outils
+
+
+---
+
+# Dans la dernière séance
+
+
+---
+
+```{r, out.width='100%', fig.align='center'}
+knitr::include_graphics("figures/data-to-impact.jpeg")
+```
+
+.footnote[Credit Source: https://twitter.com/gapingvoid]
+
+---
+
+class: inverse middle
+
+# Comment lire un article scientifique?
+
+---
+
+
+## Le processus de Recherche scientifique
+
+```{r, out.width='80%', fig.align='center'}
+knitr::include_graphics("figures/Research-conceptualization-00.jpg")
+```
+
+---
+
+class: top, left
+background-image: url("figures/Paper-Alex-01.jpg")
+background-position: 100% 70%
+background-size: 55%
+
+
+# Document Scientifique
+
+
+
+.pull-left[
+
+- .bg-yellow[Titre]
+- .bg-yellow[Résumé]
+- .bg-yellow[Introduction]
+- Literature review
+- Methodologie
+- Resultats
+- Discussion
+- .bg-yellow[Conclusion]
+- References
+
+
+**Méthode AIC**
+
+]
+
+---
+
+
+## Méthode AIC - Abstract / Introduction / Conclusion
+
+<br>
+Screening -> .bg-yellow[**Titre, Journaux, Mots Clés and Résumé**] 
+
+Synthese detaillé  use **AIC**
+<br>
+<br>
+
+### .bg-green[Abstract → Résumé du document]
+
+### Introduction → Contexte du problème et de la recherche, lacunes, résumé de ce qui est fait.
+
+### Conclusions → Résumé des résultats et importance des résultats compte tenu du contexte.
+
+
+
+---
+
+class: inverse middle
+
+.white[
+
+# Analyse du Résumé
+
+>Le produit minimal viable d'une recherche.
+
+]
+
+---
+
+class: top, left
+background-image: url("figures/niang2022.png")
+background-position: 100% 55%
+background-size: 65%
+
+## Example 1
+
+.pull-left-1.small[
+
+Quel est le sujet ?
+
+Quel est le problème ?
+(Est-il important ? )
+
+Quelle est la question de recherche ?
+
+Quel est l'objectif ?
+
+Comment l'avez-vous résolu ?
+
+Implications pour l'avenir ?
+
+
+.footnote[
+Source: https://doi.org/10.4000/rei.11225]
+
+]
+
+
+---
+
+
+class: top, left
+background-image: url("figures/niang2022a.jpg")
+background-position: 100% 55%
+background-size: 65%
+
+## Example 1
+
+.pull-left-1.small[
+
+Quel est le sujet ?
+
+Quel est le problème ?
+(Est-il important ? )
+
+Quelle est la question de recherche ?
+
+Quel est l'objectif ?
+
+Comment l'avez-vous résolu ?
+
+Implications pour l'avenir ?
+
+
+.footnote[
+Source: https://doi.org/10.4000/rei.11225]
+
+]
+
+
+---
+
+.small[
+1. .blue[Sujet] → l'auteur fournit des informations factuelles de base.
+
+1. .blue[Problème] → l'auteur présente la lacune/le problème à traiter.
+
+1. .blue[Lacune de la recherche] → l'auteur énonce les limites des connaissances actuelles.
+
+1. .blue[Le but] → l'auteur présente l'objectif général et l'objectif spécifique de l'étude.
+
+1. .blue[La méthodologie] → l'auteur résume la méthodologie et fournit des détails.
+
+1. .blue[Les résultats] → l'auteur indique les résultats de l'étude.
+1. .blue[Les perspectives] → l'auteur présente les implications de l'étude.
+]
+---
+class: top, left
+background-image: url("figures/Structuration-introduction.png")
+background-position: 100% 50%
+background-size: 30%
+
+
+
+# Structurer un Doc Scientifique
+## Introduction
+
+
+- Il doit établir l’importance du sujet de recherche 
+
+- établir un lien avec la littérature existante 
+
+- établir clairement le “Gap to be filled”
+
+- Expliquer comment on a traité le sujet 
+
+- “Annoncer la couleur” des résultats
+- Enfin : Décrire la structure de l’article 
+
+---
+
+class: top, left
+background-image: url("figures/Structuration-methodology.png")
+background-position: 100% 50%
+background-size: 30%
+
+
+
+## Methodologie
+
+
+- Il faur donner 
+
+- établir un lien avec la littérature existante 
+
+- établir clairement le “Gap to be filled”
+
+- Expliquer comment on a traité le sujet 
+
+- “Annoncer la couleur” des résultats
+- Enfin : Décrire la structure de l’article 
+
+---
+
+.pull-left-2[
+
+```{r, out.width='90%', fig.align='left'}
+knitr::include_graphics("figures/Structuration-methodology-1.png")
+```
+]
+
+
+---
+## Évaluer les résumés
+
+---
+
+# Des outils
+
+[Manuel d'utilisation de Zotero ](http://bu.univ-lorraine.fr/sites/default/files/users/user779/Tutoriel%20Zotero%202021-2022.pdf)
+
+---
+
+
+
+---
+# Les outils de la veille
+
+## .bg-green.blue[Flux RSS]
+
+.pull-left[
+
+Le flux RSS (Really Simple Syndication) est un format de syndication de contenu,outil du Web, qui permet de s’informer des dernières mises à jour d’une base dedonnées, d’une page web, d’un site, sans les consulter directement
+
+]
+.pull-rigth[
+
+
+Inoreader
+]
