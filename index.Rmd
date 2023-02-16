@@ -608,7 +608,6 @@ countdown(minutes = 45, font_size = "3em", color_background="#AED6F1", left='0px
 
 
 
----
 # Les outils de la veille
 
 ## .bg-green.blue[Flux RSS]
@@ -618,8 +617,12 @@ countdown(minutes = 45, font_size = "3em", color_background="#AED6F1", left='0px
 Le flux RSS (Really Simple Syndication) est un format de syndication de contenu,outil du Web, qui permet de s’informer des dernières mises à jour d’une base dedonnées, d’une page web, d’un site, sans les consulter directement
 
 ]
-.pull-rigth[
+.pull-right[
 
+```{r, out.width='50%', fig.align='center'}
+knitr::include_graphics('figures/inoreader.jpeg')
+```
 
-Inoreader
+https://www.inoreader.com/
+
 ]
