@@ -9,6 +9,7 @@ output:
     css: assets/xaringan-themer.css
     nature:
       slideNumberFormat: "%current%/%total%" 
+      seal: false
       highlightStyle: github
       highlightLines: true
       ratio: 16:9
@@ -37,7 +38,32 @@ xaringanExtra::use_xaringan_extra(c("tile_view", "animate_css", "tachyons", "sha
 ```
 
 
+class: center, bottom 
 
+#  `r rmarkdown::metadata$title`
+
+<br>
+
+.pull-left[
+
+```{r, out.width = '70%', fig.align='center'}
+knitr::include_graphics("figures/Thumb.jpg")
+```
+]
+
+.pull-right[
+### `r fa("comment", fill = "steelblue")` `r rmarkdown::metadata$author`
+`r rmarkdown::metadata$subtitle` |  `r paste0("Nancy ",  format(Sys.time(), '%d %B, %Y'))`
+
+
+```{r, out.width="100%", fig.align='center'}
+knitr::include_graphics(paste0(URL, 'Logos/UL-ENSGSI-ERPI.svg'))
+``` 
+
+]
+
+
+---
 
 # Objectives
 
